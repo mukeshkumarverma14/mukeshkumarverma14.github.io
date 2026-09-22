@@ -27,7 +27,8 @@ author:
   name             : "Dr. Mukesh Kumar Verma"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, Physical Education"
-  employer         : "DESS, NCERT"
+  # employer         : "DESS, NCERT"
+  location         : "DESS, NCERT"
   location         : "New Delhi – 110016"
   uri              : # URL
   email            : "mukeshncert14@gmail.com" 
