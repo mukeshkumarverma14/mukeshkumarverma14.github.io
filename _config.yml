@@ -21,17 +21,26 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# author:
+#   # Biographic information
+#   avatar           : "profile.png"
+#   name             : "Dr. Mukesh Kumar Verma"
+#   pronouns         : # example: "she/her"  
+#   bio              : "Associate Professor, Physical Education"
+#   employer         : "DESS, NCERT"
+#   location         : "New Delhi – 110016"
+#   uri              : # URL
+#   email            : "mukeshncert14@gmail.com" 
+
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Mukesh Kumar Verma"
-  pronouns         : # example: "she/her"  
+  pronouns         :
   bio              : "Associate Professor, Physical Education"
-  # employer         : "DESS, NCERT"
-  location         : "DESS, NCERT"
+  employer         : "DESS, NCERT"
   location         : "New Delhi – 110016"
-  uri              : # URL
-  email            : "mukeshncert14@gmail.com" 
+  uri              :
+  email            : "mukeshncert14@gmail.com"
 
   # Academic websites
   academia         : # URL
